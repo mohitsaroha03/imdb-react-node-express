@@ -1,0 +1,7 @@
+div.card {
+  cursor: pointer;
+}
+
+.ui.card.details {
+  margin: 1em 3em;
+}

@@ -1,0 +1,6 @@
+{
+    "port": 3001,
+    "hostAddress": "http://localhost:3001/",
+    "imdbTop100movies": "https://imdb.hriks.com/movie/?limit=100&offset=0",
+    "imdbMovieDetail": "https://imdb.hriks.com/movie"
+}
