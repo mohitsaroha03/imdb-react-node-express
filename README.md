@@ -4,7 +4,7 @@ A simple web interface that displays list of movies. Here I fetch the data from 
 
 ## Getting started
 
-- Clone the repo using 'git clone https://github.com/sanjibroy360/Imdb-movie-search.git'.
+- Clone the repo using 'git clone https://github.com/mohitsaroha03/imdb-react-node-express'.
 - Go to client and server folder one by one and do 'npm i' or 'npm install'.
 - For server install nodemon using 'npm install -g nodemon' and 'set NODE_ENV=dev' or 'export NOD_ENV=dev' for windows and linux respectively
 - Start the server by going into the client and server folder and use 'npm start'.
